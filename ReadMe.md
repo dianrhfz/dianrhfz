@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, there!<br><br>I'm Dian, Begginner Data Scientist | Python & Machine Learning Enthusiast<br><br>I love working with data - exploring, cleaning, and turning it into meaningful insights. I’m detail-oriented and passionate about learning machine learning.<br><br>Always learning<br><br>Fun Fact:<br>- Mactha is my favourite drink<br>- Always spirited
+Hi, there!<br><br>I'm Dian, Begginner Data Scientist | Python & Machine Learning Enthusiast<br><br>I love working with data - exploring, cleaning, and turning it into meaningful insights. I’m detail-oriented and passionate about learning machine learning.<br><br>Fun Fact:<br>- Mactha is my favourite drink<br>- Always spirited
 
 
 ## 🌐 Socials:
