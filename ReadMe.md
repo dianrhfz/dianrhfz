@@ -33,6 +33,6 @@ Hi, there👋🏻!<br><br>I'm Dian👩🏼‍💻, Begginner Data Scientist and 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+
 
 [![](https://visitcount.itsvg.in/api?id=dianrhfz&icon=0&color=10)](https://visitcount.itsvg.in)
